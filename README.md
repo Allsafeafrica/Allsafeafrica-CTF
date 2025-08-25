@@ -125,7 +125,7 @@ A **Capture The Flag (CTF)** is a hands-on cybersecurity game. Players solve puz
 Each write-up explains the **thinking process**, not just answers — perfect for learning & coaching.
 
 ---
-#-resources--tools
+### Resources & Tools
 
 🛠️ Resources & Tools for CTF Challenges
 
@@ -141,7 +141,7 @@ Why: Many CTF web challenges are built around these vulnerabilities (SQL Injecti
 
 Example: If you encounter a login bypass challenge, it’s likely related to SQL Injection (A03:2021 in OWASP Top 10).
 
-* 🔗 OWASP Top 10 Official — [🔗 OWASP Top 10 Official ](https://owasp.org/Top10/)
+* [🔗 OWASP Top 10 Official ](https://owasp.org/Top10/)
 
 Web Security Academy (by PortSwigger)
 
@@ -151,7 +151,7 @@ Why: Direct hands-on practice with guided hints — perfect for beginners.
 
 Example: Solve a lab on Cross-Site Scripting (XSS) and then apply it in a CTF web exploit challenge.
 
-🔗 Web Security Academy
+[🔗 Web Security Academy  ](https://portswigger.net/web-security)
 
 OverTheWire
 
@@ -161,7 +161,7 @@ Why: Great for foundational hacking skills.
 
 Example: The Bandit series teaches Linux commands like strings and grep — tools you’ll use in almost every CTF.
 
-🔗 OverTheWire Wargames
+[🔗 OverTheWire Wargames](https://overthewire.org/wargames/)
 
 PicoCTF
 
@@ -171,7 +171,7 @@ Why: Perfect for first-timers — challenges include web, crypto, reverse engine
 
 Example: Solve a basic cryptography puzzle by recognizing ROT13 or Base64 encoding.
 
-🔗 PicoCTF
+ [🔗 PicoCTF](https://picoctf.org/)
 
 TryHackMe (Intro Labs)
 
@@ -181,7 +181,7 @@ Why: Guided, beginner-friendly learning environment.
 
 Example: Learn how to perform a web directory brute force with gobuster in their “Basic Pentesting” room.
 
-🔗 TryHackMe
+[🔗 TryHackMe ](https://tryhackme.com/)
 
 ⚙️ Utilities & Tools
 
@@ -191,7 +191,7 @@ What: Proxy tool for analyzing and manipulating web traffic.
 
 Example: Capture a login request, modify parameters, and test for SQL Injection.
 
-🔗 Burp Suite Community Edition
+[🔗 Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
 
 Wireshark
 
@@ -199,7 +199,7 @@ What: Network packet analyzer.
 
 Example: Open a .pcap file in a CTF, filter for HTTP traffic, and find hidden credentials.
 
-🔗 Wireshark
+[🔗 Wireshark](https://www.wireshark.org/)
 
 CyberChef
 
@@ -207,7 +207,7 @@ What: “The Cyber Swiss Army Knife” — decode, encode, and transform data ea
 
 Example: Solve a challenge where a flag is hidden in Base64 + ROT13.
 
-🔗 CyberChef Online
+[🔗 CyberChef Online](https://gchq.github.io/CyberChef/)
 
 Hashcat / John the Ripper
 
@@ -215,7 +215,7 @@ What: Password cracking tools.
 
 Example: Given an MD5 hash (5f4dcc3b5aa765d61d8327deb882cf99), use a wordlist to reveal it as password.
 
-🔗 Hashcat
+[🔗 Hashcat ](https://exiftool.org/)
  | John the Ripper
 
 ExifTool
@@ -224,7 +224,7 @@ What: Metadata extractor for images/files.
 
 Example: Run exiftool challenge.jpg to reveal hidden comments containing the flag.
 
-🔗 ExifTool
+[🔗 ExifTool](https://exiftool.org/)
 
 🧠 CTF Mindset
 
@@ -232,7 +232,7 @@ Report Responsibly
 
 If you discover a real vulnerability while practicing, don’t exploit it further. Report it via a responsible disclosure program.
 
-🔗 Learn more: Bug Bounty Guide
+🔗 Learn more: [Bug Bounty Guide](https://www.bugcrowd.com/resource/what-is-bug-bounty/)
 
 Follow Event Rules
 
