@@ -125,7 +125,7 @@ A **Capture The Flag (CTF)** is a hands-on cybersecurity game. Players solve puz
 Each write-up explains the **thinking process**, not just answers — perfect for learning & coaching.
 
 ---
-### Resources & Tools
+## 🧰 Resources & Tools
 
 🛠️ Resources & Tools for CTF Challenges
 
