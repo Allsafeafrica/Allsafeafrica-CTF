@@ -125,6 +125,8 @@ A **Capture The Flag (CTF)** is a hands-on cybersecurity game. Players solve puz
 Each write-up explains the **thinking process**, not just answers — perfect for learning & coaching.
 
 ---
+#-resources--tools
+
 🛠️ Resources & Tools for CTF Challenges
 
 Whether you’re brand new or sharpening your hacking skills, these resources will help you learn, practice, and play CTFs safely and effectively.
@@ -139,7 +141,7 @@ Why: Many CTF web challenges are built around these vulnerabilities (SQL Injecti
 
 Example: If you encounter a login bypass challenge, it’s likely related to SQL Injection (A03:2021 in OWASP Top 10).
 
-🔗 OWASP Top 10 Official
+* 🔗 OWASP Top 10 Official — [🔗 OWASP Top 10 Official ](https://owasp.org/Top10/)
 
 Web Security Academy (by PortSwigger)
 
