@@ -266,12 +266,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
----
-
-## ✅ Next Steps
-
-* Create a new GitHub repo and paste these files.
-* Add your event dates & Simulation Labs link in `docs/setup.md`.
-* Drop example challenges in `/challenges/` and publish!
-
 > Questions or collab? Open an issue or ping us via [https://allsafeafrica.com](https://allsafeafrica.com)
