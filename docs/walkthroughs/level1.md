@@ -75,4 +75,4 @@ By completing this level, you practiced:
 
 ---
 
-👨🏾‍💻 Next: Move on to [Level 2](docs/walkthroughs/level2.md) where we explore deeper into **basic cryptography** 🔐.
+👨🏾‍💻 Next: Move on to [Level 2](https://github.com/Allsafeafrica/Allsafeafrica-CTF/blob/main/docs/walkthroughs/level2.md) where we explore deeper into **basic cryptography** 🔐.
