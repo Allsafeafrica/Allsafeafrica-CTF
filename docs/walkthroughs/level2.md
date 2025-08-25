@@ -68,4 +68,4 @@ That’s why real-world security requires **server-side checks** and **secure co
 
 ---
 
-👩🏾‍💻 **Next Level:** SQL Injection 101 →  [Level 2](https://github.com/Allsafeafrica/Allsafeafrica-CTF/blob/main/docs/walkthroughs/level2.md) 
+👩🏾‍💻 **Next Level:** SQL Injection 101 →  [Level 2](https://github.com/Allsafeafrica/Allsafeafrica-CTF/blob/main/docs/walkthroughs/level3.md) 
