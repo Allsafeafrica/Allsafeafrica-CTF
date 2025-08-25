@@ -74,10 +74,15 @@ A **Capture The Flag (CTF)** is a hands-on cybersecurity game. Players solve puz
 ## 🧠 Learning Path (Levels 1–6)
 
 **Level 1 — Cyber Explorer (Easy, 50 pts):** phishing basics, oversharing, strong passwords, inspect element, cyber hygiene.
+
 **Level 2 — Cyber Investigator (100 pts):** fake logins, secure Wi‑Fi, stego lite, breach checks, social engineering responses.
+
 **Level 3 — Cyber Guardian (200 pts):** MoMo scams, deepfake spotting, USB risks, weak hash crack, OSINT trail.
+
 **Level 4 — Cyber Responder (250 pts):** incident reporting, macro malware safety, MITM awareness, link investigation, reset + review.
+
 **Level 5 — Cyber Strategist (300 pts):** phishing campaigns, SQLi demo, password audits, OSINT recon, ethical exploit sim.
+
 **Level 6 — Cyber Commander (400 pts):** enterprise response, server hardening, PCAP analysis, insider threat, policy strategy.
 
 > Full narratives & flags are available in `/writeups/` and `/challenges/` for organizers.
