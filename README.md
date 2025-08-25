@@ -158,8 +158,6 @@ Be kind, inclusive, and respectful. No harassment, hate speech, or doxxing. Repo
 
 ## 🪪 `MIT LICENSE`
 ```
-MIT License
-
 Copyright (c) 2025 Allsafeafrica Cybersecurity (ASA)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
