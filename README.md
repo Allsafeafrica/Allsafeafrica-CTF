@@ -156,16 +156,11 @@ Be kind, inclusive, and respectful. No harassment, hate speech, or doxxing. Repo
 
 ---
 
-## 🪪 License
-
-MIT License — see `LICENSE` for details.
-
-## `LICENSE`
-
+## 🪪 `MIT LICENSE`
 ```
 MIT License
 
-Copyright (c) 2025 Allsafeafrica
+Copyright (c) 2025 Allsafeafrica Cybersecurity (ASA)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
