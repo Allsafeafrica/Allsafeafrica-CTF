@@ -129,37 +129,6 @@ Each write-up explains the **thinking process**, not just answers — perfect fo
 
 ---
 
-## 🗂 Repo Structure
-
-```
-/README.md               # You are here
-/challenges/             # Challenge templates & sample data
-  awareness/             # Easy, human-friendly
-  web/
-  crypto/
-  forensics/
-  osint/
-/docs/
-  rules.md               # Fair play & ethics
-  setup.md               # How to join events (Simulation Labs)
-  walkthroughs/
-    level1.md
-    level2.md
-    level3.md
-    level4.md
-    level5.md
-    level6.md
-/solutions/              # Organizer-only references (optional, private)
-/.github/
-  ISSUE_TEMPLATE.md      # Bug/feedback template for challenges
-  PULL_REQUEST_TEMPLATE.md
-LICENSE
-CONTRIBUTING.md
-CODE_OF_CONDUCT.md
-```
-
----
-
 ## 🤝 Contributing
 
 We welcome challenge ideas, fixes, and docs!
