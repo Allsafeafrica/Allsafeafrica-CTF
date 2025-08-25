@@ -115,12 +115,12 @@ A **Capture The Flag (CTF)** is a hands-on cybersecurity game. Players solve puz
 
 ## 📝 Write-ups & Walkthroughs
 
-* Level 1 Walkthrough — `docs/walkthroughs/level1.md`
-* Level 2 Walkthrough — `docs/walkthroughs/level2.md`
-* Level 3 Walkthrough — `docs/walkthroughs/level3.md`
-* Level 4 Walkthrough — `docs/walkthroughs/level4.md`
-* Level 5 Walkthrough — `docs/walkthroughs/level5.md`
-* Level 6 Walkthrough — `docs/walkthroughs/level6.md`
+* Level 1 Walkthrough — [Level 1](https://github.com/Allsafeafrica/Allsafeafrica-CTF/blob/main/docs/walkthroughs/level1.md)
+* Level 2 Walkthrough — [Level 2](https://github.com/Allsafeafrica/Allsafeafrica-CTF/blob/main/docs/walkthroughs/level2.md)
+* Level 3 Walkthrough — [Level 3](https://github.com/Allsafeafrica/Allsafeafrica-CTF/blob/main/docs/walkthroughs/level3.md)
+* Level 4 Walkthrough — [Level 4](https://github.com/Allsafeafrica/Allsafeafrica-CTF/blob/main/docs/walkthroughs/level4.md)
+* Level 5 Walkthrough — [Level 5](https://github.com/Allsafeafrica/Allsafeafrica-CTF/blob/main/docs/walkthroughs/level5.md)
+* Level 6 Walkthrough — [Level 6](https://github.com/Allsafeafrica/Allsafeafrica-CTF/blob/main/docs/walkthroughs/level6.md)
 
 Each write-up explains the **thinking process**, not just answers — perfect for learning & coaching.
 
