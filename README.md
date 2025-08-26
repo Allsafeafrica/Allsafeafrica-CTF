@@ -3,7 +3,7 @@
 > **Welcome!** This repo introduces Capture The Flag (CTF) challenges — what they are, how to play, and why they matter for *everyone* (beginners, students, professionals, employees, orgs & enterprises). It also hosts free training materials and example challenges.
 
 **Partner:** Simulation Labs
-**Register for upcoming CTFs:** [https://allsafeafrica.com](https://allsafeafrica.com)
+**Register for upcoming CTFs:** [Allsafeafrica-Cybersecurity.Simulationslabs](https://allsafeafrica-cybersecurity.simulationslabs.com/)
 
 ---
 
@@ -63,7 +63,7 @@ A **Capture The Flag (CTF)** is a hands-on cybersecurity game. Players solve puz
 
 ## ⚡ Get Started Fast
 
-1. **Register:** [https://allsafeafrica.com](https://allsafeafrica.com)
+1. **Register:** [Allsafeafrica-Cybersecurity.Simulationslabs](https://allsafeafrica-cybersecurity.simulationslabs.com/)
 2. **Create an account on our CTF platform (Simulation Labs)** — link will be posted in event docs.
 3. **Read the rules** (ethics, fair play, no brute‑forcing infra, respect rate limits).
 4. **Join our community chat** (link in event page) for hints & announcements.
